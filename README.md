@@ -80,10 +80,10 @@ can also find me exploring other problems and solutions in other software engine
 <br />
 
 <!-- BEGINNING OF STATS -->
-<details>
-    <summary><b>🛠️&nbsp;&nbsp;Stats</b></summary>
-    <br /> [![""](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rbluena)](https://github.com)
-</details>
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rbluena)](https://github.com)
 <!-- END OF STATS -->
+<br />
+
+
 
 <!-- [![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rbluena&height=360&padding=20&skills=JavaScript,TypeScript,React,GraphQL,AWS&show-other-skills=true)](https://github.com) -->

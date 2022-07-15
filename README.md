@@ -1,9 +1,15 @@
 # Hi 👋 I am Rabii! 
-[![GitHub Followers](https://img.shields.io/github/followers/rbluena?style=for-the-badge)](https://github.com)
+<!--[![GitHub Followers](https://img.shields.io/github/followers/rbluena?style=for-the-badge)](https://github.com)-->
+[![JavaScript](https://img.shields.io/badge/JavaScript-Enthusiast-blueviolet?style=for-the-badge)](https://github.com)
+[![React](https://img.shields.io/badge/React-Authentic-blueviolet?style=for-the-badge)](https://github.com)
+[![TDD](https://img.shields.io/badge/TDD-Advocate-blueviolet?style=for-the-badge)](https://github.com)
+[![AWS](https://img.shields.io/badge/AWS-Adventurer-blueviolet?style=for-the-badge)](https://github.com)
+[![Flutter](https://img.shields.io/badge/Flutter-Explorer-blueviolet?style=for-the-badge)](https://github.com)
+
 <br />
 
-I am a JavaScript/TypeScript Developer from **Nairobi**. I invest a lot in front-end development, especially JAMStack. You
-can also find me exploring other problems and solutions in other software engineering fields like backend, DevOps. data and algorithms. I am always active seeking knowledge and improving myself.
+I am a JavaScript/TypeScript Developer from **Nairobi**. I invest a lot in UI/UX development, especially JAMStack and Mobile. You
+can also find me exploring other problems in other software engineering fields like algorithms backend and DevOps. I am always active seeking knowledge and improving myself.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 <br />

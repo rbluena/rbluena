@@ -9,7 +9,7 @@
 
 <br />
 
-I am a JavaScript/TypeScript Developer from **Nairobi**. I invest myself a lot in UI/UX development using JAMStack and flutter. 
+I am a JavaScript/TypeScript Developer from **Nairobi**. I invest myself a lot in application development using JAMStack and flutter. 
 You can also find me exploring other problems in other software engineering fields like algorithms, backend and DevOps. I am always active seeking knowledge and improving myself.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
@@ -28,8 +28,6 @@ You can also find me exploring other problems in other software engineering fiel
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
-    <a href="https://www.cypress.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />

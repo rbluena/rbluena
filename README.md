@@ -64,7 +64,7 @@ You can also find me exploring other problems in other software engineering fiel
 <br />
 
 <!-- BEGINNING OF STATS -->
-[![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rbluena&height=360&padding=20&skills=JavaScript,TypeScript,React,GraphQL,AWS&show-other-skills=true)](https://github.com)
+[![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rbluena&height=360&padding=20&skills=JavaScript,TypeScript,React,GraphQL,AWS)](https://github.com)
 <!-- [![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rbluena)](https://github.com) -->
 <!-- END OF STATS -->
 <br />

@@ -9,8 +9,8 @@
 
 <br />
 
-I am a JavaScript/TypeScript Developer from **Nairobi**. I invest myself a lot in application development using JAMStack and flutter. 
-You can also find me exploring other problems in other software engineering fields like algorithms, backend and DevOps. I am always active seeking knowledge and improving myself.
+I am a JavaScript/TypeScript Developer. I invest myself a lot in application development using JAMStack, GraphQL and Flutter. 
+You can also find me exploring other problems in other software engineering fields like algorithms, backend and DevOps. I am always active seeking knowledge and improving myself in computer science.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 <br />

@@ -1,16 +1,18 @@
 # Hi 👋 I am Rabii!
 <!--[![GitHub Followers](https://img.shields.io/github/followers/rbluena?style=for-the-badge)](https://github.com)-->
 [![JavaScript](https://img.shields.io/badge/JavaScript-Enthusiast-blueviolet?style=for-the-badge)](https://github.com)
-[![React](https://img.shields.io/badge/React-Fan-blueviolet?style=for-the-badge)](https://github.com)
+[![React](https://img.shields.io/badge/React-Professional-blueviolet?style=for-the-badge)](https://github.com)
 [![TDD](https://img.shields.io/badge/TDD-Advocate-blueviolet?style=for-the-badge)](https://github.com)
 [![AWS](https://img.shields.io/badge/JAMStack-Adventurer-blueviolet?style=for-the-badge)](https://github.com)
-[![Flutter](https://img.shields.io/badge/Flutter-Explorer-blueviolet?style=for-the-badge)](https://github.com)
+[![React Native](https://img.shields.io/badge/React%20Native-Fan-blueviolet?style=for-the-badge)](https://github.com)
 
 
 <br />
 
 I am a JavaScript/TypeScript Developer. I invest myself a lot in application development using JAMStack, GraphQL and Mobile Development. 
 You can also find me exploring other problems in other software engineering fields like algorithms, backend and DevOps. I am always active seeking knowledge and improving myself in computer science.
+
+<p>I prefer working on front-end with NextJS, mobile application development or fullstack that involves JAMStack platforms.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 <br />
@@ -28,36 +30,17 @@ You can also find me exploring other problems in other software engineering fiel
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    </a>
     </a>
     <a href="https://jestjs.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
     </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
     </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
     </a>
 </p>
 

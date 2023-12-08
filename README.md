@@ -3,16 +3,15 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Enthusiast-blueviolet?style=for-the-badge)](https://github.com)
 [![React](https://img.shields.io/badge/React-Professional-blueviolet?style=for-the-badge)](https://github.com)
 [![TDD](https://img.shields.io/badge/TDD-Advocate-blueviolet?style=for-the-badge)](https://github.com)
-[![AWS](https://img.shields.io/badge/JAMStack-Adventurer-blueviolet?style=for-the-badge)](https://github.com)
 [![React Native](https://img.shields.io/badge/React%20Native-Fan-blueviolet?style=for-the-badge)](https://github.com)
 
 
 <br />
 
-I am a JavaScript/TypeScript Developer. I invest myself a lot in application development using JAMStack, GraphQL and Mobile Development. 
+I am a JavaScript/TypeScript Developer. I invest myself a lot in web and mobile applications development using React and React Native with JAMStack, REST API, Mongo DB and Prisma. 
 You can also find me exploring other problems in other software engineering fields like algorithms, backend and DevOps. I am always active seeking knowledge and improving myself in computer science.
 
-<p>I prefer working on front-end with NextJS, mobile application development or fullstack that involves JAMStack platforms.
+<p>I prefer working on front-end with React and fullstack that involves NodeJS or JAMStack platforms.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 <br />
@@ -21,15 +20,15 @@ You can also find me exploring other problems in other software engineering fiel
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
+    <a href="https://nextjs.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+    </a>
     <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="50" />
     </a>
      <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
+     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>

@@ -23,9 +23,6 @@ You can also find me exploring other problems in other software engineering fiel
     <a href="https://nextjs.org">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
     </a>
-    <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="50" />
-    </a>
      <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
      </a>
